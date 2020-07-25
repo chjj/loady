@@ -1,6 +1,6 @@
 {
   "name": "loady",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "dynamic loader for node.js",
   "keywords": [
     "addon",
